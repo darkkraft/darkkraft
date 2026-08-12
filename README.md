@@ -18,7 +18,7 @@
 
 **Cloud and bare metal** &nbsp;— &nbsp;AWS, GCP, Azure, OVH, and hardware I provision myself: custom KVM and libvirt layers, immutable images with mkosi and dm-verity, measured boot, Talos
 
-**Scale** &nbsp;— &nbsp;past 10,000 nodes across regions, worldwide, on cloud, on-prem and hybrid
+**Scale** &nbsp;— &nbsp;past 10,000 nodes across regions, on cloud, on-prem and hybrid
 
 **Observability** &nbsp;— &nbsp;Prometheus, Grafana, Loki, Tempo, Thanos, Vector, custom exporters
 
